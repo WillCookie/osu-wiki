@@ -42,5 +42,7 @@ The beatmaps packs can be found and downloaded from: [osu! Beatmaps Packs page](
   - [PandoTracker](https://pandotracker.me) by [- Pandoro](https://osu.ppy.sh/users/2574057)
 - [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478) (closed)
   - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) by [Hiramiya](https://osu.ppy.sh/users/1313441)
+- [All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (grouped by year, ranked only)
+  - [Ranked Map Torrents](https://drive.google.com/open?id=1awSfSH1mzW57zNpYDKUyZrnfvhKy6oHz) by [Elessey](https://osu.ppy.sh/users/4925105)
 
 You will need a lot of space (and bandwidth) to torrent all of these packs.
