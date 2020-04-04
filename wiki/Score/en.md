@@ -309,14 +309,14 @@ Meanwhile, the player's **total score for osu!standard** would be: (3,000,000 + 
 
 ### Ranked Score
 
-The ranked score is the **total sum of the best scores for all the ranked beatmapset played online.**
+The ranked score is the **total sum of the best scores for all the ranked beatmap difficulties played online.**
 
 ### Total Score
 
-The total score is the **total sum of all scores on ranked and/or approved beatmaps, including failed trials.**
+The total score is the **total sum of all scores on ranked beatmaps, including failed trials.**
 
 If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k.
-Then, the player plays again and gets 400k, only the total score increases by 400k.
+Then, the player plays the same song and difficulty again and gets 400k, only the total score increases by 400k.
 
 #### Level
 
