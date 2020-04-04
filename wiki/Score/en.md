@@ -289,21 +289,21 @@ Suppose a player played these four beatmaps online with a signed in osu!account 
 
 - ![Ranked icon][rank] [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302 "BRANDY - The Festival of Ghosts 2 (darrihuka)")
   - Relaxing : 3,000,000
-  - **DaRRi MIx : 5,000,000**
+  - DaRRi MIx : 5,000,000
 - ![Ranked icon][rank] [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/beatmapsets/271 "ZZ - Samurai Blue (elzamxrai)")
   - Easy : 500,000
-  - **Normal : 1,000,000**
-  - Hard : No score
+  - Normal : 1,000,000
+  - Hard : *No score*
 - ![Ranked icon][rank] [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/beatmapsets/1264 "Matchbox 20 - How Far We've Come (Sushi)")
-  - **Normal : 2,000,000**
+  - Normal : 2,000,000
   - Hard : 1,500,000
-    - First failed online play : 2,450,000
-    - Second failed online play : 50,000
+    - *First failed online play : 2,450,000*
+    - *Second failed online play : 50,000*
 - ![Approved icon][fire] [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/beatmapsets/1785 "Nico Nico Douga - U.N. Owen Was Her? (Reikin)")
-  - **Normal : 2,000,000**
-    - Offline play : 50,000,000
+  - Normal : 2,000,000
+    - *Offline play : 50,000,000*
 
-The player's **total ranked score for osu!standard** would be: 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
+The player's **total ranked score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000) + (2,000,000) = **15,000,000 score**.
 
 Meanwhile, the player's **total score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
 
